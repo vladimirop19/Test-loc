@@ -1,0 +1,306 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+    <string name="accept">Accetta</string>
+  <string name="achieved">Ottenuto</string>
+  <string name="action_settings">Impostazioni</string>
+  <string name="add">AGGIUNGI</string>
+    <string name="add_a_photo_caption">Aggiungi una foto</string>
+  <string name="add_comment">Aggiungi un commento</string>
+  <string name="add_friend">AGGIUNGI AMICO</string>
+    <string name="add_photo">Aggiungi foto</string>
+    <string name="add_to_garage">Aggiungi a Garage</string>
+  <string name="advanced_ride_planning">Programmazione di corsa avanzata</string>
+  <string name="agree_and_continue">CONFERMA E CONTINUA</string>
+  <string name="all">TUTTO</string>
+    <string name="app_name">Rever</string>
+  <!-- More -->
+  <string name="app_version">Versione app:</string>
+  <string name="are_you_sure_delete_bike">Sei sicuro di voler eliminare questa moto?</string>
+  <string name="automated_text_alerts">Avvisi di messaggi automatici</string>
+  <string name="auto_pause">autopausa</string>
+    <string name="auto_pause_tracking">TRACCIAMENTO IN AUTO-PAUSA</string>
+    <string name="best">MIGLIORE</string>
+  <string name="better">MEGLIO</string>
+  <string name="bikes_list_is_empty">L\'elenco moto è vuoto</string>
+    <string name="butler_routes">Percorsi Butler</string>
+  <string name="buy">ACQUISTA</string>
+    <string name="cancel">Cancella</string>
+    <string name="cancel_request">Annulla richiesta</string>
+    <string name="card_number">NUMERO CARTA</string>
+  <!-- Map tab -->
+    <string name="challenge">Sfida</string>
+  <!-- Rider style -->
+    <string name="challenge_poi_awarded">Vincitore del POI sfida</string>
+  <string name="check_internet_connection">Controlla la connessione internet</string>
+    <string name="check_permissions_message">Ti preghiamo di verificare tutte le autorizzazioni dell\'applicazione Rever</string>
+    <!-- OFFLINE MAPS -->
+  <string name="choose_region">Scegli la regione da scaricare.</string>
+  <string name="communities">Community</string>
+  <string name="community_list_is_empty">L\'elenco community è vuoto</string>
+  <string name="complete_your_ride">Per favore completa la tua uscita attuale prima di iniziarne una nuova.</string>
+  <string name="confirm_delete">Conferma Cancellazione</string>
+  <string name="confirm_friend_request">Conferma richiesta di amicizia</string>
+  <string name="confirm_friend_request_1">Sei sicuro di voler aggiungere questo motociclista come amico? Prima della loro conferma, sarai in grado di vedere soltanto tutte le corse pubbliche che hanno creato.</string>
+  <string name="congress_poi" formatted="false">Congratulazioni, hai visitato  %s e hai guadagnato %d punti bonus! Questo sarà aggiunto al tuo punteggio totale per il %s quando la tua corsa verrà salvata.</string>
+  <string name="congress_poi_list">Congratulazioni, sei entrato nella classifica del POI!</string>
+  <!-- CONNECT -->
+  <string name="connect">connetti</string>
+  <string name="connections">Connessioni</string>
+  <string name="connect_to_contacts">Connettiti ai contatti</string>
+  <string name="connect_to_facebook">Connetti a Facebook</string>
+  <string name="contacts">Contatti</string>
+    <string name="coupon_number">NUMERO COUPON</string>
+    <string name="cvc">CVC</string>
+  <string name="dark">Buio</string>
+  <string name="date">Data</string>
+  <string name="decline">Calo</string>
+    <string name="default_view">Default</string>
+  <string name="delete">Elimina</string>
+  <string name="delete_bike">Elimina moto</string>
+  <string name="delete_photo">Sei sicuro di voler cancellare questa corsa?</string>
+  <string name="delete_ride">Sei sicuro di voler Eliminare questa Uscita?</string>
+    <string name="deleting_complete">Eliminazione completata</string>
+  <string name="deleting_photo">Cancellazione foto</string>
+  <string name="description">Descrizione</string>
+    <string name="dirt">STERRATO</string>
+  <string name="disable_screen_lock">DISABILITA BLOCCA SCHERMO</string>
+    <string name="discover_label">Scopri</string>
+    <string name="discussion">Discussione</string>
+  <string name="distance">Distanza</string>
+  <string name="distance_km">Distanza (km)</string>
+  <string name="distance_ml">Distanza (ml)</string>
+  <string name="dont_show">Non mostrarmelo di nuovo</string>
+  <string name="dont_waste_time">Non sprecare tempo con software complicati. Sblocca gli strumenti di programmazione di corsa avanzata su REVER.co. Segui la tua corsa nell\'app o download. File GPX da usare sul tuo dispositivo GPS.</string>
+  <string name="download">DOWNLOAD</string>
+    <string name="downloads_the_map">Scarica la mappa della regione che stai visualizzando al momento</string>
+    <string name="download_maps">Scarica Maps</string>
+  <!-- Download map -->
+    <string name="edit_bike">Modifica moto</string>
+  <string name="edit_ride">Bearbeiten</string>
+  <string name="email">Email</string>
+  <string name="email_addresses_not_found">L\'elenco di indirizzo e-mail è vuoto</string>
+  <string name="email_already_registered">Questa e-mail è già stata registrata</string>
+    <string name="empty_login_or_pass">I campi Login o Password sono vuoti</string>
+    <string name="empty_name">Inserisci il tuo nome completo</string>
+  <string name="enable_gps">Si prega di attivare i servizi di localizzazione e il GPS</string>
+  <string name="enable_gps_title">Servizio di localizzazione non attivo</string>
+    <string name="end_message">FINE MESSAGGIO</string>
+    <string name="enter_name">Inserisci nome</string>
+    <string name="errors" formatted="false">Errori</string>
+  <!-- Save ride -->
+  <string name="error_blank_title">Il titolo non può essere lasciato vuoto.</string>
+    <string name="error_network">Errore di Rete</string>
+    <string name="error_unknown">Errore sconosciuto</string>
+  <string name="facebook">Facebook</string>
+    <string name="facebook_id">1427449277558243</string>
+  <!-- COMMUNITIES -->
+  <string name="featured_rides">Corse correlate</string>
+  <!-- FEED -->
+  <string name="feed">Feed</string>
+    <string name="fill_all_fields">Tutti i campi devono essere riempiti</string>
+  <string name="fill_correctly">Compila correttamente i campi</string>
+  <string name="find_your_contacts">Trova i tuoi contatti su REVER</string>
+  <string name="find_your_facebook">Cerca i tuoi amici di Facebook su REVER</string>
+  <string name="finish">FINE</string>
+    <string name="forgot_password">PASSWORD DIMENTICATA</string>
+  <string name="fragment_challenges">Sfide</string>
+    <string name="friends">AMICI</string>
+    <string name="friends_list_is_empty">La lista degli amici è vuota</string>
+    <string name="friend_tracker">Trova Amici</string>
+    <!-- SignUp -->
+  <string name="full_name">Nome completo</string>
+  <string name="garage">Garage</string>
+  <string name="get_riding">Inizia a correre!</string>
+  <string name="get_the_goods">OTTIENI I PRODOTTI</string>
+  <string name="get_the_most">Ottieni il massimo</string>
+  <string name="good">BENE</string>
+    <string name="happens_to">Succede quando diamo il meglio</string>
+    <!-- Settings -->
+  <string name="hide_max_speed">Nascondi velocità massima</string>
+    <string name="high_accuracy_mode">Forse il tuo smartphone è impostato sulla modalità di risparmio energia. Ti consigliamo vivamente di attivare la modalità di Accuratezza elevata per migliorare la qualità della registrazione del a tua corsa</string>
+  <string name="high_accuracy_mode_title">Risparmio di energia</string>
+  <string name="how">Il modo in cui</string>
+  <string name="include_ride_time_and_distance">INCLUDI TEMPO E DISTANZA USCITA </string>
+  <string name="incorrect_phone">Il numero di telefono deve essere indicato nel formato internazionale. Per esempio, +12345678901</string>
+  <string name="initializing">Inizializzazione</string>
+    <string name="instructions">Sono state inviate delle istruzioni tramite email</string>
+    <string name="invalid_email">Formato e-mail non valido</string>
+    <string name="invitation_accepted">Invito accettato</string>
+  <string name="invitation_rejected">Invito rifiutato</string>
+  <string name="invite">INVITO</string>
+  <!-- FRIENDS -->
+    <string name="i_m_heading_out_for_a_ride">Sto uscendo per un giro in moto!</string>
+  <string name="joined">Hai partecipato</string>
+  <string name="join_challenge">PARTECIPA ALLA SFIDA</string>
+  <string name="join_communities">Unisciti alle community</string>
+  <string name="join_community">Unisciti alla community</string>
+  <string name="join_me">Unisciti a me su REVER. È un\'app GRATUITA con GPS per moto e un sito per programmare, tracciare e seguire ogni altra corsa. https://a.rever.co/</string>
+  <string name="just_finished_tracking_a_ride">Appena finito di tracciare un\'uscita!</string>
+  <string name="keep_them_in">Aggiornali con avvisi automatici con la tua posizione, insieme ad un messaggio personalizzato quando inizi e termini una corsa.</string>
+  <string name="kilometers">CHILOMETRI</string>
+  <!-- Rides page -->
+  <string name="label_empty_rides_list">La lista delle corse è vuota</string>
+    <string name="last_ride">Ultima corsa: </string>
+    <string name="learn_more">Scopri di più</string>
+  <string name="leave_challenge">LASCIA LA SFIDA</string>
+  <string name="leave_community">Abbandona community</string>
+    <string name="lets_get_you_started">Iniziamo</string>
+  <string name="licence">Licenza</string>
+  <string name="light">Luce</string>
+  <string name="list">Elenco</string>
+  <string name="list_is_empty">L\'elenco è vuoto</string>
+  <string name="list_of_downloaded">Elenco di regioni scaricate</string>
+  <string name="list_of_regions_is_empty">L\'elenco delle regioni è vuoto</string>
+  <string name="loading">Caricando…</string>
+    <string name="login_with_facebook">ACCEDI CON FACEBOOK</string>
+    <string name="log_in">ACCEDI</string>
+    <string name="log_out">ESCI</string>
+  <string name="make">MARCA</string>
+    <string name="map_box_token">pk.eyJ1IjoibXBzbnAiLCJhIjoiY2ozNG0zbzV2MDAxejJxcXVpcW96OXI1cSJ9.SGpYBY9hhDkIv2hHZ5T3kg</string>
+    <string name="map_style">Stile mappa</string>
+    <string name="me">IO</string>
+    <string name="members">Membri</string>
+    <string name="miles">MIGLIA</string>
+  <string name="model">MODELLO</string>
+    <string name="month">MESE</string>
+  <string name="my_challenges">LE MIE SFIDE</string>
+    <string name="my_garage">Il mio Garage</string>
+    <string name="name">NOME</string>
+  <string name="name_new_region">Rinomina la nuova regione</string>
+  <string name="navigate_to">Naviga in</string>
+  <!-- PROFILE -->
+  <string name="need_help">Hai bisogno d\'aiuto?</string>
+  <string name="never_miss_a_good">Non perdere mai più una buona strada. Ottieni accesso esclusivo agli ottimi consigli di Butler Motorcycle Maps. *Include il Nord America e la Germania.</string>
+  <string name="new_challenges">NUOVA SFIDA</string>
+  <string name="new_contact">Nuovo Contatto</string>
+    <string name="no">No</string>
+  <string name="note">AVVISO: alcune funzioni potrebbero consumare di più la batteria o più dati</string>
+    <string name="notifications">Notifiche</string>
+  <string name="notifications_end_message">Appena finito di tracciare un\'uscita!</string>
+  <string name="notifications_premium">La configurazione di Notifiche di inizio e fine di un\'uscita è una funzionalità Premium!</string>
+  <string name="notifications_start_message">Sto uscendo per un giro in moto!</string>
+    <string name="not_enough_data">Non ci sono dati sufficienti da salvare! Riprendi a tracciare o elimina questa uscita</string>
+    <string name="no_internet_connection">Nessuna connessione Internet</string>
+    <string name="offline">OFFLINE</string>
+    <string name="offline_maps">Mappe offline</string>
+  <string name="offline_maps_premium">La possibilità di scaricare le mappe offline è una funzionalità Premium!</string>
+  <string name="ok">OK</string>
+  <string name="outdoors">Esterno</string>
+  <string name="out_of_your_next">dalla tua corsa.</string>
+  <string name="password">Password</string>
+    <string name="payment_success">Pagamento effettuato</string>
+  <string name="pending">(in attesa)</string>
+  <string name="photos_upload_result" formatted="false">%d di %d foto caricate con successo.</string>
+  <string name="photo_upload_result_error" formatted="false">La foto non è stata caricata. Errore:</string>
+  <string name="photo_upload_result_success" formatted="false">Foto caricata con successo.</string>
+  <string name="pick_photo">Scegli foto</string>
+  <!-- DISCOVER -->
+  <string name="places_to_ride">Luoghi da percorrere</string>
+  <string name="planned">PIANIFICATO</string>
+    <string name="please_wait">Per favore attendi</string>
+    <string name="poi_list">Località punti bonus</string>
+    <string name="poi_not_yet">Non ancora</string>
+    <string name="premium_feature">Funzione Premium!</string>
+  <string name="premium_route_content">Contenuto percorso premium</string>
+  <string name="priv">PRIVATO</string>
+    <!-- Challenges -->
+  <string name="prize">Premio</string>
+    <string name="pub">PUBBLICO</string>
+    <string name="rank">Posizione:</string>
+  <string name="real_time_friend">Indicatore di posizione degli amici in tempo reale</string>
+    <string name="recording_ride">Registrando uscita</string>
+    <string name="region_downloaded" formatted="false">Regione scaricata del %s</string>
+  <string name="reject">Rifiuta</string>
+  <string name="remove">RIMUOVI</string>
+    <string name="request_access">Richiedi accesso</string>
+  <string name="request_sent">Richiesta di amicizia inviata</string>
+  <string name="resume">RIPRENDI</string>
+    <string name="rever_is_better">\"REVER è migliore insieme agli amici! Connettiti con compagni di corsa e amici vicini.</string>
+  <string name="rever_payment">PAGAMENTO REVER</string>
+  <string name="rever_ride">Uscita Rever</string>
+    <string name="rides">USCITE</string>
+    <string name="rides_upload_result" formatted="false">[[%d di %d corse caricate con successo.</string>
+  <string name="ride_invitation">Invito ad una corsa</string>
+  <string name="ride_it">ESCI IN MOTO!</string>
+  <string name="ride_name">Nome corsa</string>
+  <string name="ride_not_uploaded">Questa corsa non è stata caricata nel server!</string>
+    <string name="ride_record_paused">Registrazione uscita in pausa</string>
+    <string name="ride_updated">Corsa aggiornata</string>
+  <string name="ride_upload_result_error" formatted="false">La corsa non è stata caricata. Errore:</string>
+  <string name="ride_upload_result_success" formatted="false">Corsa caricata con successo</string>
+    <string name="roads">STRADE</string>
+  <string name="rules">Regole</string>
+    <string name="satellite_view">Satellite</string>
+  <string name="save">SALVA</string>
+  <string name="search">Cerca</string>
+    <string name="select">Seleziona</string>
+    <string name="send">Invia</string>
+    <string name="share">CONDIVIDI</string>
+    <string name="share_my_location_with_friends">CONDIVIDI LA MIA POSIZIONE CON GLI AMICI</string>
+    <string name="share_title">Condividi l\'uscita Rever!</string>
+    <string name="short_password">La password è troppo corta (il minimo è di 8 caratteri)</string>
+    <string name="sign_up">Iscriviti</string>
+  <string name="sign_up_with_email">ISCRIVITI CON L\'EMAIL</string>
+  <string name="sign_up_with_facebook">ISCRIVITI CON FACEBOOK</string>
+    <string name="sms_notification">NOTIFICA SMS</string>
+  <string name="sms_ride_notification">Notifiche di corsa via sms</string>
+    <string name="sorry_try_again">Ci dispiace, riprova.</string>
+  <string name="sorry_you_did_not_grand_permissions">Spiacenti, non hai il permesso</string>
+  <string name="speed">VELOCITA\'</string>
+  <string name="speed_avg">Velocità (Media)</string>
+  <string name="speed_max">Velocità (Massima)</string>
+  <string name="standard_text_messaging">NOTA: Si Applicano Regole Standard di Text Messaging a\nRecipienti.</string>
+    <string name="start_message">MESSAGGIO DI INIZIO</string>
+    <string name="stay_in_touch">Resta in contatto</string>
+    <string name="submit">INVIA</string>
+    <string name="successfully_uploaded">Caricato con successo</string>
+    <string name="synchronization">Aggiornamento punti...</string>
+    <string name="this_bike_can_not">Questa moto non può essere cancellata. È allegato ad una corsa caricata.</string>
+    <string name="time">Tempo</string>
+    <string name="top10">TOP 10</string>
+  <string name="total">Totale: </string>
+  <string name="total_rides">Corse totali</string>
+  <string name="total_time">Tempo totale</string>
+  <string name="tracked">TRACCIATO</string>
+    <string name="tracks">Piste</string>
+    <string name="traffic_day">Traffico diurno</string>
+  <string name="traffic_night">Traffico notturno</string>
+  <string name="trails">Sentieri</string>
+    <string name="try_again">Per favore riprova</string>
+    <string name="type">Tipo</string>
+    <string name="units">UNITA\'</string>
+    <string name="updating_ride">Aggiornamento corsa</string>
+    <string name="upgrade_to_premium">Passa a Premium! SCOPRI DI PIÙ...</string>
+    <string name="uploading_ride">Caricando uscita</string>
+    <string name="upload_bad_rides">Hai uscite che non sono state sincronizzate con il database online. Per favore clicca qui per caricare le tue uscite</string>
+    <string name="upload_photos_started">Caricamento foto avviato</string>
+  <string name="upload_rides">Carica uscite</string>
+  <!--
+  <string name="upload_ride_error_tile">Your ride was successfully saved, but you are offline or in bad
+  reception.</string>
+  -->
+  <string name="upload_ride_error">La tua uscita è stata salvata con successo ma sei offline o la connessione è debole. Per favore carica questa uscita attraverso la scheda uscite quando sei in linea.</string>
+  <string name="upload_ride_with_photos_error">La tua corsa è stata salvata con successo, ma sei offline o in cattiva ricezione. Per favore, sincronizza questa corsa attraverso il tab corse quando sei online. Ti segnaliamo che le foto non sono state salvate.</string>
+  <string name="value">Valore</string>
+  <string name="vehicles">Veicoli</string>
+  <!-- MAP SETTINGS -->
+    <string name="view_butler_maps">Visualizza Uscite suggerite dalla Mappe Motociclistiche Butler è una funzionalità Premium!</string>
+    <string name="view_label">Visualizza</string>
+    <string name="ways_to_connect">Modalità di connessione</string>
+    <string name="when_i_start_amp_end_a_ride_send_sms_to">QUANDO INIZIO &amp; FINISCO UN\'USCITA MANDA UN SMS A </string>
+  <string name="where">Dove</string>
+  <string name="who">Le persone con cui</string>
+  <string name="wrong_card_info">Informazioni carta non valide</string>
+  <string name="year">ANNO</string>
+  <string name="yes">Sì</string>
+  <!-- Congrats -->
+  <string name="you_are_part">Adesso fai parte della più grande community di motociclisti del mondo.</string>
+  <string name="you_are_riding_with">corri fanno la differenza</string>
+  <string name="you_dont_need_an_expensive">Non hai bisogno di costosi GPS o piani dati per sapere dove ti trovi. Ottieni mappe offline illimitate dell\'intero mondo.</string>
+  <string name="you_get_there_is">arrivi qui è importante</string>
+  <string name="you_have_made">Ora che hai degli amici, smetti di perderli. Vedi la loro posizione sulla Mappa in tempo reale.</string>
+  <string name="you_have_people">delle persone tengono a te</string>
+    <string name="you_ride_matters">Le tue corse contano.</string>
+    <string name="_59_99_year">$59.99/ANNO</string>
+  <string name="_5_99_month">$5.99/MESE</string>
+</resources>

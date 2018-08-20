@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!--rever colors-->
+    <color name="white">#ffffff</color>
+    <color name="orange_default">#f3853d</color>
+    <color name="dark_orange">#ba5e22</color>
+    <color name="orange_tap">#ff9a40</color>
+    <color name="black">#111111</color>
+    <color name="grayDark">#222222</color>
+    <color name="gray">#444444</color>
+    <color name="gray_shadow">#707070</color>
+    <color name="gray_text">#b6b6b6</color>
+    <color name="gray_unread">#cecece</color>
+    <color name="gray_resume">#787878</color>
+    <color name="gray_line">#dddddd</color>
+    <color name="gray_light">#fafafa</color>
+    <color name="gray_text_feed">#cccccc</color>
+    <color name="green">#26cca4</color>
+    <color name="red">#e74a4a</color>
+    <color name="darker_gray">#111111</color>
+    <color name="greyDarkTransparrent">#CC404040</color>
+    <color name="darkTransparrent">#cc151515</color>
+    <color name="grayTransparrent">#59151515</color>
+    <color name="orange_rever_transparrent">#4Df38420</color>
+    <color name="transparent_gray">#bf000000</color>
+
+</resources>
